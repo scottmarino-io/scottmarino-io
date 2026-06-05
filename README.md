@@ -54,7 +54,11 @@
 
 ## Certifications
 
-- **Claude Certified Architect - Foundations (CCA-F)** — Anthropic
+**Anthropic** (Claude Partner Network)
+- Introduction to Agent Skills
+- Building with the Claude API
+- Introduction to Model Context Protocol
+- Claude Code in Action
 
 ---
 
