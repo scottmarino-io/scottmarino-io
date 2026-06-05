@@ -52,6 +52,12 @@
 
 ---
 
+## Certifications
+
+- **Claude Certified Architect - Foundations (CCA-F)** — Anthropic
+
+---
+
 ## Links
 
 - Website: [scottmarino.io](https://www.scottmarino.io)
